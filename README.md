@@ -32,8 +32,6 @@ Contributions to `nft-gombinator` are welcome! If you would like to contribute, 
 
 5. Submit a pull request to the main repository, explaining your changes and why they should be merged.
 
-Please ensure that you adhere to the [code of conduct](./CODE_OF_CONDUCT.md) when contributing to this project.
-
 ## Support
 
 If you have any questions or need assistance, please feel free to [open an issue](https://github.com/piwneuh/nft-gombinator/issues) on GitHub.
